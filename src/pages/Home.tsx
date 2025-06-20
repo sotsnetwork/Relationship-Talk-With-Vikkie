@@ -59,7 +59,7 @@ const Home: React.FC = () => {
             <div className="relative animate-fade-in">
               <div className="relative z-10">
                 <img
-                  src="https://images.pexels.com/photos/3184298/pexels-photo-3184298.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&dpr=1"
+                  src="https://images.pexels.com/photos/5699456/pexels-photo-5699456.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&dpr=1"
                   alt="Professional counselor Boluwatife Victoria Abiodun"
                   className="rounded-2xl shadow-2xl w-full object-cover aspect-square"
                 />
